@@ -162,7 +162,6 @@ var vanillaCalendar = {
     this.label.innerHTML =
       this.monthsAsString(this.date.getMonth()) + (this.date.getDate())
       + ',  ' + this.weekdaysAsString(this.date.getDay())
-
     this.dateClicked()
   },
 
