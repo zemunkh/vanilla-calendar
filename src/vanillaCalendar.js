@@ -185,18 +185,13 @@ var vanillaCalendar = {
 
   monthsAsString: function (monthIndex) {
     return [
-      'January',
-      'Febuary',
-      'March',
-      'April',
-      'May',
-      'June',
-      'July',
-      'August',
-      'September',
-      'October',
-      'November',
-      'December'
+      'Ням',
+      'Даваа',
+      'Мягмяр',
+      'Лхагва',
+      'Пүрэв',
+      'Баасан',
+      'Бямба'
     ][monthIndex]
   },
 
