@@ -4,8 +4,6 @@ var vanillaCalendar = {
   previous: document.querySelectorAll('[data-calendar-toggle="previous"]')[0],
   label: document.querySelectorAll('[data-calendar-label="month"]')[0],
 
-  timetable: document.querySelectorAll('[data-timetable-area="time"]')[0],
-
   activeDates: null,
   date: new Date(),
   todaysDate: new Date(),
